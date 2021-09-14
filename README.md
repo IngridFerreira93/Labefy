@@ -59,7 +59,7 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 Primeiro instale o [Git](https://git-scm.com/), [Node.jS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm)
 bash
 # Clonar o repositório
-git clone https://github.com/future4code/Ingrid-Ferreira.git
+git clone https://github.com/IngridFerreira93/Labefy
 
 # Entrar no diretório
 cd labefy
